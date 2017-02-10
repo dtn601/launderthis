@@ -1,0 +1,24 @@
+{
+  "name": "laundrythis",
+  "description": "react web app",
+  "main": "app.js",
+  "authors": [
+    "daniel nguyen"
+  ],
+  "license": "1.0.0.1",
+  "keywords": [
+    "laundry"
+  ],
+  "homepage": "https://github.com/ga-students/wdi-atx-9-class",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eonasdan-bootstrap-datetimepicker": "^4.17.45"
+  }
+}

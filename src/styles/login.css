@@ -1,0 +1,77 @@
+body {
+	background: #1AAEED
+
+}
+.login-container {
+	background: #FFF;
+	border: 1px solid #fff;
+	border-radius: 10px;
+	text-align: center;
+	width: 100%;
+	margin-top: 20%;
+    margin-bottom: 20%;
+
+}
+.primaryButton {
+    margin: 10px;
+    padding: 15px;
+    width: 90%;
+    border: 1px solid #1AAEED;
+    color: #1AAEED;
+    background: #f9f9f9;
+}
+
+.transparentButton {
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.textInput {
+    height: 40px;
+    width: 200px;
+    border: 1px solid #1AAEED;
+    margin: 2px;
+}
+  .primaryButtonText {
+    background: #1AAEED;
+    border: 0px solid;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 10%;
+    width: 100px;
+  }
+  .signUpButtonText {
+    background: #1AAEED;
+    border: 0px solid;
+    margin: 10px;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+    width: 90%;
+  }
+  .transparentButtonText {
+    color: #1AAEED;
+    padding: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 10%;
+  }
+  .transparentButtonText {
+    color: #1AAEED;
+    padding: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin: 5%;
+  }
+  .applogo {
+    height: 150px;
+    margin: 3%;
+  }
+
+  .loginInstead {
+    margin-bottom: 5%;
+  }

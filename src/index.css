@@ -1,0 +1,45 @@
+body {
+  background: #1aaeed;
+}
+nav li {
+  display: inline-block;
+  margin: 10px;
+}
+
+nav li a {
+  padding: 6px;
+  text-transform: uppercase;
+  color: white;
+}
+
+nav li a:hover {
+  background: #1aaeed;
+  border-bottom: 1px solid #fff;
+  color: #fff !important;
+  text-decoration: none;
+}
+
+.nav-wrapper {
+  margin: 0 auto;
+  max-width: 960px;
+  padding:  2%;
+
+}
+
+.header {
+  background-color: #1aaeed;
+  position: fixed;
+  min-width: 100%;
+  color: white;
+}
+
+.header img {
+  height: 75px;
+}
+
+.btn {
+    background: #1aaeed;
+  border-bottom: 1px solid #fff;
+  color: #fff !important;
+  text-decoration: none;
+}

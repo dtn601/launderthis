@@ -1,0 +1,120 @@
+body {background: white;}
+
+.dashboard-container {
+  background: #fff;
+	text-align: center;
+  width: 100%;
+}
+.confirmation-container {
+  background: #fff;
+  text-align: center;
+  width: 100%;
+  margin-top: 20%;
+}
+.confirmation-order {
+  text-align: left;
+}
+.dashboard-logo {
+  background: #1AAEED;
+}
+
+.dashboard-footer {
+  background: #1AAEED;
+  margin-top: 10%;
+}
+
+.primaryButton {
+    margin: 10px;
+    padding: 15px;
+    width: 90%;
+    border: 1px solid #1AAEED;
+    color: #1AAEED;
+    background: #f9f9f9;
+}
+.accountButton {
+    margin: 10px 0px;
+    padding: 15px;
+    width: 100%;
+    border: 1px solid #1AAEED;
+    color: #1AAEED;
+    background: #f9f9f9;
+}
+.transparentButton {
+    margin-top: 10px;
+    padding: 15px;
+}
+
+.textInput {
+    height: 40px;
+    width: 200px;
+    border: 1px solid #1AAEED;
+    margin: 2px;
+}
+  .primaryButtonText {
+    background: #1AAEED;
+    border: 0px solid;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 10%;
+    width: 100px;
+  }
+  .signUpButtonText {
+    background: #1AAEED;
+    border: 0px solid;
+    margin: 10px;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+
+    width: 90%;
+  }
+  .transparentButtonText {
+    color: #1AAEED;
+    padding: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px 10%;
+  }
+  .transparentText {
+    color: #1AAEED;
+    padding: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .appLogo {
+    width: 25%;
+    height: 25%;
+    margin: 3%;
+  }
+
+  .appLogoName {
+    width: 100%;
+    height: 100%;
+    margin: 3%;
+  }
+  .appProcessName {
+    width: 50%;
+    height: 50%;
+    margin-top:3%;
+  }
+  .dashlogo {
+    width: 40%;
+    height: 40%;
+
+  }
+  .loginInstead {
+    margin-bottom: 5%;
+  }
+
+  /*custom time styles on order*/
+  .time-container{
+    margin-bottom: 10%;
+  }
+  .date-container{
+    margin-top: 2%;
+    margin-bottom: 5%;
+  }
